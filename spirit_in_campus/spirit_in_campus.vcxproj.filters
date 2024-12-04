@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Src\AssetManager.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Collision.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ECS\ECS.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Game.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Map.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TextureManager.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Vector2D.cpp">
+      <Filter>source file</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\ECS\Animation.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\AssetManager.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\ColliderComponent.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Collision.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\Components.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\ECS.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Game.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\KeyboardController.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Map.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\ProjectileComponent.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\SpriteComponent.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\TextureManager.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\TileComponent.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\TransformComponent.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ECS\UILabel.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Vector2D.h">
+      <Filter>header file</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header file">
+      <UniqueIdentifier>{0835cbb0-f121-411c-88dc-1e97204cce3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source file">
+      <UniqueIdentifier>{f5bd4fed-c195-4297-a922-c18f2f66e972}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
